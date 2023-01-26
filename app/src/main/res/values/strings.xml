@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatApplication</string>
+    <string name="chat_app">CHAT APP</string>
+    <string name="history">HISTORY</string>
+    <string name="search">SEARCH</string>
+    <string name="enter_text">Enter the text to search</string>
+</resources>
