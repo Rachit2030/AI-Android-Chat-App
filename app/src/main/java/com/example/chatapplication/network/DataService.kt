@@ -20,7 +20,7 @@ interface DataService{
     @POST("generations")
     suspend fun getImage(
         @Header("Content-Type") contentType: String = "application/json",
-        @Header("Authorization") authorisation: String = "Bearer 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",
+        @Header("Authorization") authorisation: String = "Bearer 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",
         @Body userRequest: UserRequest
     ): Response
 }
