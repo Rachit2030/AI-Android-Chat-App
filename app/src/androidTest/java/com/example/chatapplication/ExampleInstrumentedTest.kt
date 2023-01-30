@@ -45,7 +45,7 @@ class ExampleInstrumentedTest {
 
     private val testPrompt: List<String> = listOf(
         "dog in house",
-        " man on sofa",
+        "man on sofa",
         "boy in playground",
         "horse in barn",
         "a white tiger hunting prey",
